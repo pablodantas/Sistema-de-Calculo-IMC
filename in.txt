@@ -1,0 +1,33 @@
+sandro barbosa; 90.5; 1.73
+maycon da silva ferreira;100.01;1.82
+jeferson Oliveira;80.04;1.75
+manuel gomes vieira;63.05;1.8
+emanuel da silva;87.5;1.61
+isis santanna de Deus;59.00;1.6
+maria santana bezerra;63.8;1.75
+Alessandro Viana;69.53;1.83
+sandro barbosa;75;1.54
+Almir Valente;87.86;1.8
+Bruno Santana Filho;68.63;1.65
+marta santos oliveira ;63.55;1.72
+michele Santanna Da Silva;68;1.7
+Alex Da Silva;78.08;1.85
+Daniel Alexandre ;54.05;1.78
+Manuella Pereira;68.36;1.69
+Matheus Silva;92.3;2.01
+Giuderlan Antonio Neto;80.25;1.98
+Geisa Ferreira  Da  Silva;75.05;1.65
+neymar josefino andrade;110;1.77
+João Michelango;1.60;1.59
+Gabriela Xavier Ferreira;58;1.7
+Michelangelo de La Siena;100;1.9
+Ivanor de Jesus;75.68;1.7
+Cienne Augusta Conceição;56.05;1.57
+Arthur Santana;66.06;1.75
+amaro Luiz;90.05;2.68
+Alzenrau Silva;65;1.97
+caio sena;50.01;1.33
+Romildo da Silva;89.05;1.73
+Lindomar Catillo;68.22;1.53
+Felizberto Felizmino da Felicidade;86.5;1.86
+Caroline da boa Mente;78.05;1.87
